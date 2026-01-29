@@ -57,14 +57,28 @@ Idea2Project aims to solve this problem by converting **technical skills into ac
 
 ---
 
-## 🗂️ Planned Project Structure
+## 🗂️ Project Structure (Current)
 ```text
 idea2project/
 │
-├── backend/        # Laravel API
-├── frontend/       # React application
-├── docs/           # Documentation & schemas
-└── scripts/        # Deployment & utilities
+├── backend/                # Laravel REST API
+│   ├── app/
+│   ├── database/
+│   └── routes/
+│
+├── frontend/               # React + Vite application
+│   ├── src/
+│   │   ├── ai/             # Custom AI & project generation logic
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── contexts/
+│   │   └── services/
+│   └── public/
+│
+├── docs/                   # API docs & database schema
+│
+└── scripts/                # Deployment & utilities
+
 ```
 ---
 
@@ -116,3 +130,7 @@ This project is licensed under the **MIT License**.
 ## 👤 Author
 Developed by **Bxat01**  
 GitHub: https://github.com/Bxat01
+
+
+
+
