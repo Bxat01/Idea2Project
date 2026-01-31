@@ -1,5 +1,13 @@
+
+
 # Idea2Project 🚀  
-**AI-Powered Project Idea Translator for Developers**
+## 🕒 Project Timeline Note
+
+This repository was created and the initial project plan (README) was written **two days before** the demo version was published.
+
+The live demo represents a **rapid prototype** built shortly after planning, to validate the idea and core user flow.
+
+### AI-Powered Project Idea Translator for Developers
 
 Idea2Project is an AI-powered platform designed to help developers transform their programming skills into **practical, well-structured software project ideas**.
 
