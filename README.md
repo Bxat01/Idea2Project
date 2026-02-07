@@ -1,5 +1,5 @@
 ## 🚀  Idea2Project Platform - v0.1.0 – Initial Demo
-🌐 Live Demo: https://idea2project.onrender.com/
+🌐 Live Demo: https://idea2projectdemo.onrender.com
 Welcome Team! This project is a comprehensive platform designed to help developers generate project ideas, track their progress, and monitor platform analytics geographically.
 
 📋 System Overview
